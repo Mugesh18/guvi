@@ -17,7 +17,7 @@ public static void main(String[] args) {
 			}
 		}
 		if(count<2) {
-			System.out.println(a[i]+" ");
+			System.out.print(a[i]+" ");
 		}
 		}
 }
